@@ -1,3 +1,3 @@
-# Excel_Scrape_With_Python_OSYM_3
+# Excel_Scrape_With_Python_OSYM_2
 
 This is the 2nd step of UniversityListProjectSEBIT.<br /><br /> This python script scrapes all of the departments data and makes a POST request to the server.
